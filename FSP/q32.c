@@ -14,6 +14,7 @@ int f(int n){
 int main(){
     int n = 5;
     int result = f(n);
-    printf("f(%d) = %d \n", result);
+    printf("f(5) = %d \n", result);
     return 0;
+
 }
